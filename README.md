@@ -8,6 +8,7 @@
 - Library of weburls and pdfs grouped by names with progress saved in between chapters
 - User-friendly interface for easy navigation
 
+⭐ If this project helps you, please give it a star! It helps others discover it too.
 ---
 
 ### Installation
