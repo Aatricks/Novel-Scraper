@@ -8,7 +8,6 @@
 - Library of weburls and pdfs grouped by names with progress saved in between chapters
 - User-friendly interface for easy navigation
 
-⭐ If this project helps you, please give it a star! It helps others discover it too.
 ---
 
 ### Installation
@@ -28,3 +27,6 @@ Simply download and install the release apk.
             textView.setText(Html.fromHtml(paragraph, Html.FROM_HTML_MODE_LEGACY));
 ```
 * Bionic reading is a method of reading that aims to improve reading speed and comprehension by highlighting the most important parts of words, allowing readers to quickly grasp the meaning of sentences without having to read every single letter.
+
+> [!TIP]
+> ⭐ If this project helps you, please give it a star! It helps others discover it too.
